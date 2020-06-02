@@ -1,6 +1,6 @@
 # web-cfw-loader
 Fusee Launcher, in a browser!
-This project is published under the MIT license, you can find more information [here](https://github.com/lordfriky/web-cfw-loader/blob/master/LICENSE).
+This project is published under the MIT license, you can find more information [here](https://github.com/obiwancanoweme/web-cfw-loader/blob/master/LICENSE).
 
 # Description
 This is a port of [fusee-launcher](https://github.com/Qyriad/fusee-launcher) to JavaScript using WebUSB. This appears to work on Linux, Android (unrooted), macOS and Chrome OS. Windows support is still extremely unstable and it seems to only work sometimes.
